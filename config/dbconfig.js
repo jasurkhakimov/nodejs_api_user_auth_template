@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "sql5064.site4now.net",
-    USER: "db_a7aad9_jokav87146_admin",
-    PASSWORD: "Aa123456",
-    DB: "db_a7aad9_jokav87146",
+    HOST: "host",
+    USER: "user",
+    PASSWORD: "password",
+    DB: "db",
     dialect: "mssql",
     pool: {
         max: 5,
